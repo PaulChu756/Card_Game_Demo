@@ -1,41 +1,110 @@
 ﻿using UnityEngine;
 using System.Collections;
-using System.Xml.Serialization;
 
-namespace Dylan
+namespace Card
 {
-    interface iCard
-    {
-        string name { get; set; }
-        string Description { get; set; }
-        bool State { get; set; }
-    }
+	public abstract class Card 
+	{
+  
+		[SerializeField]
+		protected string Name;
+		//Name of the card
+		[SerializeField]
+		protected string Description;
+		//Effect the card has when played on field
 
-    public class Card : MonoBehaviour, iCard
-    {
-        [SerializeField]
-        private string m_Name; //Name of the card
-        [SerializeField]
-        private string m_Description; //Effect the card has when played on field
+		protected bool State; 
+	}
 
-		private bool m_State;
-		public string Name {
-			get{ return m_Name; }
-			set{ m_Name = value; }
+	public class MysteryCard : Card, iCard
+	{
+		public MysteryCard(string n, string d, int p, MysteryType mt)
+		{
+			base.State = false;
+			base.Description = d;
+			base.Name = n;
 		}
+		sealed class Class
+		{
+
+		}
+
+		internal class Event
+		{
+
+		}
+
+		internal class Monster
+		{
+			private int power;
+		}
+
+		private int m_power;
+			
+
+		public string Name { 
+			get { return base.Name; }
+			set { base.Name = value; }
+		}
+
+		public bool State { 
+			get	{ return base.State; } 
+			set { base.State = value; }
+		}
+
 		public string Description {
-			get{ return m_Description; }
-			set{ m_Description = value; }
-		}
-		public bool State{
-			get{ return m_State; }
-			set{ m_State = value; }
+			get { return base.Description; } 
+			set { base.Description = value; }
 		}
 
+		public int Power {
+			get{ return m_power; }
+			set{ m_power = value; }
+				 
 
-        protected bool InPlay = false; //Used to tag the card as on the Playing field or in a player hand
+		}
+	}
+
+	public class TreasureCard : Card, iCard
+	{
+		public TreasureCard(string n, string d, int g)
+		{
+			base.State = false;
+			base.Description = d;
+			base.Name = n;
+			m_GoldValue = g;
+		}
+		public enum Equipment
+		{
+			HEAD,
+			BODY,
+			FEET,
+			HANDS,
+		}
+		protected Equipment ItemSlot;
+		private int m_GoldValue;
+		public int GoldValue
+		{
+			get{ return m_GoldValue; }
+
+		}
 
 
-    }
+		public string Name { 
+			get { return base.Name; }
+			set { base.Name = value; }
+		}
+
+		public bool State { 
+			get	{ return base.State; } 
+			set { base.State = value; }
+		}
+
+		public string Description {
+			get { return base.Description; } 
+			set { base.Description = value; }
+		}
+ 
+	}
 }
-
+ 
