@@ -321,7 +321,7 @@ GameObject:
   - 114: {fileID: 1171741370}
   - 114: {fileID: 1171741369}
   m_Layer: 5
-  m_Name: Button
+  m_Name: UICombatButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -557,7 +557,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Combat
+  m_Text: Combat Phrase
 --- !u!222 &1621416983
 CanvasRenderer:
   m_ObjectHideFlags: 0
