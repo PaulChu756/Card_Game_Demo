@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace chui
+namespace Chui
 {
     public class TransitionScene : MonoBehaviour
     {

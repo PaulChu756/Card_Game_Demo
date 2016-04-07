@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace chui
+namespace Chui
 {
     /// <summary>
     /// Pass in string to load new level.
