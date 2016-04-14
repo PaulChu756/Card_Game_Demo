@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System;
 using System.Linq;
 using UnityEngine.Events;
-
+using Quinton;
 namespace Character
 {
 	
@@ -84,6 +84,7 @@ namespace Character
 
 		public int PlayCard ()
 		{
+            
 			return 0;
 		}
 
@@ -99,7 +100,7 @@ namespace Character
 		}
 
 		[SerializeField]		 
-		private List <GameObject> cards = new List<GameObject> ();
+		public List <GameObject> cards = new List<GameObject> ();
 		public List<ICard> hand = new List<ICard> ();
 		public static List<ICard> equipment = new List<ICard> ();
 
