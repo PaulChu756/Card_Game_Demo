@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>6</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: HippogriffDescription: Hippogriff</Info>
+  <Name>Hippogriff</Name>
+  <Description>Will not pursue anyone of Level 3 or below.
+Bad Stuff: You are stomped and chomped. You drop things as you flee. Starting with the player on your right, each player may take one Treasure card from in front of you or (without looking) from your hand.</Description>
+  <Power>16</Power>
+</MysteryCard>

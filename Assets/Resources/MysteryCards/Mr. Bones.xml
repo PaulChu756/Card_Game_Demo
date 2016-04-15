@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>1</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Mr. BonesDescription: Mr. Bones</Info>
+  <Name>Mr. Bones</Name>
+  <Description>If you must flee, you lose a level even if you escape.
+Bad Stuff: His bony touch costs you 2 levels.</Description>
+  <Power>2</Power>
+</MysteryCard>

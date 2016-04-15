@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>3</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Wannabe VampireDescription: Wannabe Vampire</Info>
+  <Name>Wannabe Vampire</Name>
+  <Description>Instead of fighting, a Cleric can chase the Wannabe Vampire away just by going "booga booga," and take all his Treasure. There is no level increase for this!
+Bad Stuff: Blocks the door and tells you about his character. Lose 3 levels.</Description>
+  <Power>12</Power>
+</MysteryCard>

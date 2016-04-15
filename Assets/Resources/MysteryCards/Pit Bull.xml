@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>1</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Pit BullDescription: Pit Bull</Info>
+  <Name>Pit Bull</Name>
+  <Description>If you can't defeat it, you may distract it (automatic escape) by dropping any wand, pole, or staff. (Fetch, Fido!)
+Bad Stuff: Fang marks in your butt. Lose 2 levels.</Description>
+  <Power>2</Power>
+</MysteryCard>

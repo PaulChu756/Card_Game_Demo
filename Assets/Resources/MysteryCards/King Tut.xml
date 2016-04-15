@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>6</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: King TutDescription: King Tut</Info>
+  <Name>King Tut</Name>
+  <Description>Will not pursue anyone of Level 3 or below. Higher-Level characters lose 2 levels, even if they escape.
+Bad Stuff: Lose all your items and all cards in your hand.</Description>
+  <Power>16</Power>
+</MysteryCard>

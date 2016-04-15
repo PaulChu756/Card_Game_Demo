@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>0</Reward>
+  <CardType>CURSE</CardType>
+  <Info>Name: Curse!
+Change sexDescription: Curse!
+Change sex</Info>
+  <Name>Curse!
+Change sex</Name>
+  <Description>-5 to your next combat due to distraction. After that, there is no further penalty. However, the change is permanent.</Description>
+  <Power>0</Power>
+</MysteryCard>

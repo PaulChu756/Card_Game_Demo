@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>0</Reward>
+  <CardType>CURSE</CardType>
+  <Info>Name: Curse!
+Lose 1 small itemDescription: Curse!
+Lose 1 small item</Info>
+  <Name>Curse!
+Lose 1 small item</Name>
+  <Description>Choose one small item to discard. Any item that is not designated Big is small.</Description>
+  <Power>0</Power>
+</MysteryCard>

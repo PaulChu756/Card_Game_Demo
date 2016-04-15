@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>3</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Net TrollDescription: Net Troll</Info>
+  <Name>Net Troll</Name>
+  <Description>He has no special powers, and he's really mad about it.
+Bad Stuff: Screws up the game balance by forcing you to let the player(s) of the highest Level take any one item (each) from you.</Description>
+  <Power>10</Power>
+</MysteryCard>

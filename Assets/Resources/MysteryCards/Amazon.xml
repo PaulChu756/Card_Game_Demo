@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>2</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: AmazonDescription: Amazon</Info>
+  <Name>Amazon</Name>
+  <Description>Will not attack females; just gives them 1 Treasure instead.
+Bad Stuff: You have had your butt kicked by a woman. Your macho munchkin pride is lost. Lose your Class(es). If you already had no Class, lose 3 levels.</Description>
+  <Power>8</Power>
+</MysteryCard>

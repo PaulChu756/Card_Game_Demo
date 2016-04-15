@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>4</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Unspeakably Awful Indescribable HorrorDescription: Unspeakably Awful Indescribable Horror</Info>
+  <Name>Unspeakably Awful Indescribable Horror</Name>
+  <Description>+4 against Warriors.
+Bad Stuff: Unspeakably awful death for anyone but a Wizard. A Wizard merely loses his powers - discard the Wizard card.</Description>
+  <Power>14</Power>
+</MysteryCard>

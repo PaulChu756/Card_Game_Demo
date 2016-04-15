@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>2</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: GhoulfiendsDescription: Ghoulfiends</Info>
+  <Name>Ghoulfiends</Name>
+  <Description>No Items or other bonuses help against them - fight with your Level only.
+Bad Stuff: Your Level becomes equal to the lowest Level of any character in play.</Description>
+  <Power>8</Power>
+</MysteryCard>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>2</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: PlatycoreDescription: Platycore</Info>
+  <Name>Platycore</Name>
+  <Description>Resists magic. +6 against Wizards.
+Bad Stuff: Either discard your whole hand or lose 2 levels.</Description>
+  <Power>6</Power>
+</MysteryCard>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>0</Reward>
+  <CardType>CURSE</CardType>
+  <Info>Name: Curse! Change classDescription: Curse! Change class</Info>
+  <Name>Curse! Change class</Name>
+  <Description>If you have no Class now, this curse has no effect. Otherwise, go back through the discard pile, starting with the top discard. The first Class card you come to replaces your current Class(es). If you go through the discards without finding a Class card, you just lose your ow Class(es).</Description>
+  <Power>0</Power>
+</MysteryCard>

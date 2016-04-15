@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>4</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Insurance SalesmanDescription: Insurance Salesman</Info>
+  <Name>Insurance Salesman</Name>
+  <Description>Your Level does not count. Fight him with only yout bonuses!
+Bad Stuff: You buy insurance. Lose 1,000 Gold Pieces' worth of items. If you don't have that much, lose all you have.</Description>
+  <Power>14</Power>
+</MysteryCard>

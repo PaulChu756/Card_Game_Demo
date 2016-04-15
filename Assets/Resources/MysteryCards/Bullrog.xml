@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>7</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: BullrogDescription: Bullrog</Info>
+  <Name>Bullrog</Name>
+  <Description>Will not pursue anyone of Level 4 or below.
+Bad Stuff: You are flayed to death.</Description>
+  <Power>18</Power>
+</MysteryCard>

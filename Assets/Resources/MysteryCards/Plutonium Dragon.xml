@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>7</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Plutonium DragonDescription: Plutonium Dragon</Info>
+  <Name>Plutonium Dragon</Name>
+  <Description>Will not pursue anyone of Level 5 or below.
+Bad Stuff: You are roasted and eaten. You are dead.</Description>
+  <Power>20</Power>
+</MysteryCard>

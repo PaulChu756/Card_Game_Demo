@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>2</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Face SuckerDescription: Face Sucker</Info>
+  <Name>Face Sucker</Name>
+  <Description>It's gross! +6 against Elves.
+Bad Stuff: When it sucks your face off, your Headgear goes with it. Discard the Headgear you are wearing, and lose a level.</Description>
+  <Power>8</Power>
+</MysteryCard>

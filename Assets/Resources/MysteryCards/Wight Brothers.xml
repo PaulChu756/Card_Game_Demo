@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>6</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Wight BrothersDescription: Wight Brothers</Info>
+  <Name>Wight Brothers</Name>
+  <Description>Will not pursue anyone of Level 3 or below. Higher-Level characters lose 2 levels, even if they escape.
+Bad Stuff: You are reduced to Level 1.</Description>
+  <Power>16</Power>
+</MysteryCard>

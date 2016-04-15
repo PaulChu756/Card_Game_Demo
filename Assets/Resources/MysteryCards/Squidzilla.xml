@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>6</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: SquidzillaDescription: Squidzilla</Info>
+  <Name>Squidzilla</Name>
+  <Description>Slimy! Elves are at -4! Will not pursue anyone of Level 4 or below except Elves.
+Bad Stuff: You are grabbed, slimed, crushed, and gobbled. You are dead, dead, dead. Any questions?</Description>
+  <Power>18</Power>
+</MysteryCard>

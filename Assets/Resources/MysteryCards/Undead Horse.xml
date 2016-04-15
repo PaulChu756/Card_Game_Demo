@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>2</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Undead HorseDescription: Undead Horse</Info>
+  <Name>Undead Horse</Name>
+  <Description>+5 against Dwarves.
+Bad Stuff: Kicks, bites, and smells awful. Lose 2 levels.</Description>
+  <Power>4</Power>
+</MysteryCard>

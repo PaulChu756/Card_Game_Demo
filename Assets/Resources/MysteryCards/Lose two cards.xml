@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>0</Reward>
+  <CardType>CURSE</CardType>
+  <Info>Name: Curse!
+Lose two cardsDescription: Curse!
+Lose two cards</Info>
+  <Name>Curse!
+Lose two cards</Name>
+  <Description>First the player to the victim's left draws a card from the victim's hand and keeps it. The the player on the right does the same.</Description>
+  <Power>0</Power>
+</MysteryCard>

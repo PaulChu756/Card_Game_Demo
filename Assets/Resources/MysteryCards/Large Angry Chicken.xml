@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>1</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Large Angry ChickenDescription: Large Angry Chicken</Info>
+  <Name>Large Angry Chicken</Name>
+  <Description>Fried chicken is delicious. Gain one extra level if you defeat it with fire or flame.
+Bad Stuff: Very painful pecking. Lose a level.</Description>
+  <Power>2</Power>
+</MysteryCard>

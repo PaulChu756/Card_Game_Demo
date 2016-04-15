@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>0</Reward>
+  <CardType>CURSE</CardType>
+  <Info>Name: Curse!
+Duck of DoomDescription: Curse!
+Duck of Doom</Info>
+  <Name>Curse!
+Duck of Doom</Name>
+  <Description>You should know better than to pick up a duck in a dungeon. Lose 2 levels.</Description>
+  <Power>0</Power>
+</MysteryCard>

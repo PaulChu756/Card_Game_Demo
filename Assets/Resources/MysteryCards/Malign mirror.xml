@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>0</Reward>
+  <CardType>CURSE</CardType>
+  <Info>Name: Curse!
+Malign MirrorDescription: Curse!
+Malign Mirror</Info>
+  <Name>Curse!
+Malign Mirror</Name>
+  <Description>You are cursed! In your next fight (only), you may not get any bonuses from items other than Armor. A Wishing Ring, used before the next fight, will lift the curse.</Description>
+  <Power>0</Power>
+</MysteryCard>

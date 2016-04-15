@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>2</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Snails on SpeedDescription: Snails on Speed</Info>
+  <Name>Snails on Speed</Name>
+  <Description>-2 to Run Away.
+Bad Stuff: They steal your treasure. Roll a die and lose that many items or cards in your hand - your choice.</Description>
+  <Power>4</Power>
+</MysteryCard>

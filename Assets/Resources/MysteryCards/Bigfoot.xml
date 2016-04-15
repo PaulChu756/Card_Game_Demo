@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>3</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: BigfootDescription: Bigfoot</Info>
+  <Name>Bigfoot</Name>
+  <Description>+3 against Dwarves and Halflings.
+Bad Stuff: Stomps you flat and eats your hat. Lose the Headgear you were wearing.</Description>
+  <Power>12</Power>
+</MysteryCard>

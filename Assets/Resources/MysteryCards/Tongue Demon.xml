@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>3</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Tongue DemonDescription: Tongue Demon</Info>
+  <Name>Tongue Demon</Name>
+  <Description>A creature from Hell. +4 against Clerics. You must discard one item (your choce) before combat.
+Bad Stuff: A really disgusting kiss costs you 2 levels (3 for Elves).</Description>
+  <Power>12</Power>
+</MysteryCard>

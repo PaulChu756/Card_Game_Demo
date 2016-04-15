@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>3</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Floating NoseDescription: Floating Nose</Info>
+  <Name>Floating Nose</Name>
+  <Description>If you don't want to fight the Floating Nose, you can bribe it with an item worth at least 200 Gold Pieces, and it will let you go.
+Bad Stuff: It can sniff you out anywhere. If you lose, you cannot flee; nothing will help you. Lose 3 levels.</Description>
+  <Power>10</Power>
+</MysteryCard>

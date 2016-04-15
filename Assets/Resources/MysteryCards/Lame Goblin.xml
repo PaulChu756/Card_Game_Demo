@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>1</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Lame GoblinDescription: Lame Goblin</Info>
+  <Name>Lame Goblin</Name>
+  <Description>+1 to Run Away.
+Bad Stuff: He whacks you with his crutch. Lose a level.</Description>
+  <Power>1</Power>
+</MysteryCard>

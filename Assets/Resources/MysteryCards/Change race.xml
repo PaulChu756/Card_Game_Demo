@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>0</Reward>
+  <CardType>CURSE</CardType>
+  <Info>Name: Curse! Change RaceDescription: Curse! Change Race</Info>
+  <Name>Curse! Change Race</Name>
+  <Description>If you have no Race now, this curse has no effect. Otherwise, go back through the discard pile, starting with the top discard. The first Race card you come to replaces your current Race(s). If you go through the discards without finding a Race card, you just lose your own Race(s).</Description>
+  <Power>0</Power>
+</MysteryCard>

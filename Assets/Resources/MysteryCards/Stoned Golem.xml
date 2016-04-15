@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>4</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Stoned GolemDescription: Stoned Golem</Info>
+  <Name>Stoned Golem</Name>
+  <Description>You may choose whether to fight the Stoned Golem or just wave, walk past and let him keep his treasure.
+(Exception: Halflings look tasy and must fight.)
+Bad Stuff: He has the munchies. He eats you. You're dead.</Description>
+  <Power>14</Power>
+</MysteryCard>

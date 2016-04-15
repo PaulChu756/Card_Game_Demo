@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>0</Reward>
+  <CardType>CURSE</CardType>
+  <Info>Name: Curse!
+Chicken on your headDescription: Curse!
+Chicken on your head</Info>
+  <Name>Curse!
+Chicken on your head</Name>
+  <Description>-1 to all your die rolls. Any Curse or Bad Stuff that removes your Headgear will take the chicken with it.</Description>
+  <Power>0</Power>
+</MysteryCard>

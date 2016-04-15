@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>2</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: LeperchaunDescription: Leperchaun</Info>
+  <Name>Leperchaun</Name>
+  <Description>He's gross! +5 against Elves.
+Bad Stuff: He takes two items from you - one chosen by the player on either side of you.</Description>
+  <Power>4</Power>
+</MysteryCard>

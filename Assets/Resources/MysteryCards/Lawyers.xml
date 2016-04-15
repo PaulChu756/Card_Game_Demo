@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>2</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: LawyersDescription: Lawyers</Info>
+  <Name>Lawyers</Name>
+  <Description>Will not attack a Thief (professional courtesy). A Thief encountering a lawyer may instead discard two Treasures and draw two new ones face down.
+Bad Stuff: He hits you with an injunction. Let each other player draw one card from your hand, starting with the player to your left. Discard any remainder.</Description>
+  <Power>6</Power>
+</MysteryCard>

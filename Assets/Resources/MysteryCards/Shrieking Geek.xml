@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>2</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: Shrieking GeekDescription: Shrieking Geek</Info>
+  <Name>Shrieking Geek</Name>
+  <Description>+6 against Warriors.
+Bad Stuff: You become a normal, boring Human. Discard any Race or Class cards in play.</Description>
+  <Power>6</Power>
+</MysteryCard>

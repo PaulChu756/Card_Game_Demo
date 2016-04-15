@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MysteryCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reward>2</Reward>
+  <CardType>MONSTER</CardType>
+  <Info>Name: PukachuDescription: Pukachu</Info>
+  <Name>Pukachu</Name>
+  <Description>Gain an extra level if you defeat it without using help or bonuses.
+Bad Stuff: Projectile vomiting attack! Discard your whole hand.</Description>
+  <Power>6</Power>
+</MysteryCard>
