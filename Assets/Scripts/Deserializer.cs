@@ -18,7 +18,7 @@ public class Deserializer<T>
    
     public T Deserialization(string cardName) // Load Data
     {
-        string path = @"Assets\Resources\" + cardName + ".xml";
+        string path = @"Assets/Resources/MysteryCards" + cardName + ".xml";
 
         FileStream fs;
 
